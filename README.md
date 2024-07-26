@@ -8,11 +8,11 @@ The purpose of this analysis is to evaluate the performance of a logistic regres
 ## Results
 The following is the results from the regression model:
 
-Accuracy Score: 0.99
-Precision Score for 0 (Healthy Loan): 1.00
-Recall Score for 0 (Healthy Loan): 1.00
-Precision Score for 1 (High-Risk Loan): 0.87
-Recall Score for 1 (High-Risk Loan): 0.89
+- Accuracy Score: 0.99
+- Precision Score for 0 (Healthy Loan): 1.00
+- Recall Score for 0 (Healthy Loan): 1.00
+- Precision Score for 1 (High-Risk Loan): 0.87
+- Recall Score for 1 (High-Risk Loan): 0.89
 
 ## Summary
 
